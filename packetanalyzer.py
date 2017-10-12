@@ -1,5 +1,5 @@
 '''
-packetanalyzer.py by Akshay Pudage (ap7558 AT rit DOT edu)
+packetanalyzer.py by Akshay Pudage 
 '''
 
 import binascii
